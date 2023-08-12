@@ -11,8 +11,8 @@ In the PyPoll Challenge, students are tasked with helping a small, rural town mo
 Data is drawn from the file election.data.csv. 
 The dataset is composed of three columns: "Voter ID", "County", and "Candidate". 
 The task is to create a Python script that analyzes the votes and calculates each of the following values:  
-  The total number of votes cast
-  A complete list of candidates who received votes
-  The percentage of votes each candidate won
-  The total number of votes each candidate won
-  The winner of the election based on popular vote
+* The total number of votes cast
+* A complete list of candidates who received votes
+* The percentage of votes each candidate won
+* The total number of votes each candidate won
+* The winner of the election based on popular vote
